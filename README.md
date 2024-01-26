@@ -100,6 +100,8 @@ Or, email me at : Abuffill@outlook.com
 
 ## Tests
 
+![image](https://github.com/AnthonyBuffill/logo-generator/assets/153314977/344672e7-ead4-447b-8276-f2cb9d1c28dc)
+
 
 ## SCREEN Recording
 
